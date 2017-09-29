@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Briarpatch | Software</title>
+    <link>http://cameronbriar.com/blog/categories/golang/</link>
+    <description>Recent content in Golang on Briarpatch | Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2017 | Follow on &lt;a href=&#34;https://twitter.com/cameronbriar&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;https://github.com/cameronbriar&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 11 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cameronbriar.com/blog/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Math example</title>
+      <link>http://cameronbriar.com/blog/post/hello-world/</link>
+      <pubDate>Sun, 11 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cameronbriar.com/blog/post/hello-world/</guid>
+      <description>&lt;p&gt;MathJax can render latex math equations in webpages.
+$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$&lt;/p&gt;
+
+&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/mathjax/&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;https://www.mathjax.org/#docs&#34;&gt;Documentaion&lt;/a&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
